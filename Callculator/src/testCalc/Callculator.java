@@ -18,6 +18,17 @@ public class Callculator {
      */
     public static void main(String[] args) {
         Scanner calc = new Scanner(System.in);
+        Scanner scan = null;
+
+        /*
+           sacn.next and scan.nextInt() will
+           be used at a later time. Nothing
+           will run because scan is null
+          */
+
+        assert false;
+        scan.next();
+        scan.nextInt();
         
             double fnum, snum, answer;
             
