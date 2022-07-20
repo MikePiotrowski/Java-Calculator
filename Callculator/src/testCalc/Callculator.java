@@ -7,6 +7,7 @@ import java.util.Scanner;
  *
  * @author Michael Lee Piotrowski
  * Oct. 2017
+ * First update on July 19, 2022
  * Basic calculator that will eventually become
  * a app using Javafx and CSS
  */
